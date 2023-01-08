@@ -1,2 +1,5 @@
 # SalesInsight-1-Analysis
-- analysis of a company sales using MySQL and Power BI
+- Analysis of a company sales using MySQL and Power BI
+- I have downloaded the dummy data from kaggle 
+- Cleaned it using MySQL.
+- Created Dashboard using Power-BI. 
